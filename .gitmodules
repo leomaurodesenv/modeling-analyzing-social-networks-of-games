@@ -1,0 +1,3 @@
+[submodule "01_detecting-influencers"]
+	path = 01_detecting-influencers
+	url = https://github.com/leomaurodesenv/paper-2019-iceis
