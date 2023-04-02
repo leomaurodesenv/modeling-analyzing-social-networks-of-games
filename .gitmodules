@@ -1,3 +1,12 @@
 [submodule "01_detecting-influencers"]
 	path = 01_detecting-influencers
 	url = https://github.com/leomaurodesenv/paper-2019-iceis
+[submodule "tool/smm-course-search"]
+	path = tool/smm-course-search
+	url = https://github.com/leomaurodesenv/smm-course-search
+[submodule "tool/smm-maker-profile"]
+	path = tool/smm-maker-profile
+	url = https://github.com/leomaurodesenv/smm-maker-profile
+[submodule "tool/smm-course-viewer"]
+	path = tool/smm-course-viewer
+	url = https://github.com/leomaurodesenv/smm-course-viewer
