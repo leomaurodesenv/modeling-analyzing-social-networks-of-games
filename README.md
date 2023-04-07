@@ -18,17 +18,17 @@ We have sorted the resources into three separate folders.
 To help research paper readers, these are the link of sections and resources in the article.
 
 - Section 3. Crawling a Social Network of Games
-    - 📝 [Analysis](analysis/smmnet/) - Data analysis and visualization.
-    - 🎲 [Data](data/) - SMMnet is available on [kaggle](https://www.kaggle.com/datasets/leomauro/smmnet).
-    - 🔧 [Tool](tool/smm-maker-profile/) - `smm-maker-profile` that collects players' data.
-    - 🔧 [Tool](tool/smm-course-search/) - `smm-course-search` that searches for levels developed.
+    - 📝 `analysis/smmnet/` - Data analysis and visualization. 
+    - 🎲 `data/` - SMMnet is available on [kaggle](https://www.kaggle.com/datasets/leomauro/smmnet).
+    - 🔧 `tool/smm-maker-profile/` - Tool that collects players' data.
+    - 🔧 `tool/smm-course-search/` - Tool that searches for levels developed.
 - Section 4. Detecting Game Influencers
-    - 📝 [Analysis](analysis/detecting-influencers/) - Feature extraction codes and visualization.
-    - 🎲 Data - SMMnet and intermediate data are in the code folder.
+    - 📝 `analysis/detecting-influencers/` - Feature extraction codes and visualization.
+    - 🎲 `data/` - SMMnet and intermediate data are in the code folder.
 - Section 5. Characterizing Popular Games
-    - 📝 [Analysis](analysis/characterizing-popular-games/) - Analysis on popular games.
-    - 🎲 [Data](data/characterizing-popular-games/) - Features and aggregated features extracted.
-    - 🔧 [Tool](tool/smm-course-viewer/) - `smm-course-viewer` that extract features from course files.
+    - 📝 `analysis/characterizing-popular-games/` - Analysis on popular games.
+    - 🎲 `data/characterizing-popular-games/` - Features and aggregated features extracted.
+    - 🔧 `tool/smm-course-viewer/` - Tool that extract features from course files.
 
 ---
 ## Download
