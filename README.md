@@ -1,7 +1,6 @@
 # 📄 Modeling and Analyzing Social Networks of Games
 
-This repository presents a collection of codes and datasets from the research paper "Modeling and Analyzing Social Networks of Games".    
-To identify attractive components of platform games and player preferences, we analyzed data from the famous Super Mario Maker game created by Nintendo Inc. in Kyoto, Japan.   
+This repository presents a collection of codes and datasets from the research paper "Modeling and Analyzing Social Networks of Games". To identify attractive components of platform games and player preferences, we analyzed data from the famous Super Mario Maker game created by Nintendo Inc. in Kyoto, Japan.   
 
 **Paper**: _under submission review_.
 
