@@ -47,7 +47,7 @@ The citation will be updated when accepted, _paper is under submission review_.
 ```tex
 @misc{moraes:2023:modeling-social-network-of-games,
     author={Leonardo Mauro Pereira Moraes and Felippe P. Ferreira and Robson Leonardo Ferreira Cordeiro},
-    title={Detecting Influencers in Very Large Social Networks of Games},
+    title={Modeling and Analyzing Social Networks of Games},
     year={2023},
     url={https://github.com/leomaurodesenv/modeling-analyzing-social-networks-of-games},
 }
